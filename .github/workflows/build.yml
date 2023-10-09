@@ -29,5 +29,5 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: website
-        path: WebApplication1/website/**
+        path: sustianabilityonhyperscaler/website/**
         if-no-files-found: error
